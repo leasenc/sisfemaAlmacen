@@ -1,0 +1,16 @@
+C:\Users\letas\Downloads\Sistema de Almacén en Visual Studio 2010  y SqlServer 2008\Codigo Fuente\sisalmacen\sisalmacen\bin\Debug\sisalmacen.exe
+C:\Users\letas\Downloads\Sistema de Almacén en Visual Studio 2010  y SqlServer 2008\Codigo Fuente\sisalmacen\sisalmacen\bin\Debug\sisalmacen.pdb
+C:\Users\letas\Downloads\Sistema de Almacén en Visual Studio 2010  y SqlServer 2008\Codigo Fuente\sisalmacen\sisalmacen\bin\Debug\sisalmacen.xml
+C:\Users\letas\Downloads\Sistema de Almacén en Visual Studio 2010  y SqlServer 2008\Codigo Fuente\sisalmacen\sisalmacen\obj\x86\Debug\sisalmacen.vbprojAssemblyReference.cache
+C:\Users\letas\Downloads\Sistema de Almacén en Visual Studio 2010  y SqlServer 2008\Codigo Fuente\sisalmacen\sisalmacen\obj\x86\Debug\sisalmacen.Resources.resources
+C:\Users\letas\Downloads\Sistema de Almacén en Visual Studio 2010  y SqlServer 2008\Codigo Fuente\sisalmacen\sisalmacen\obj\x86\Debug\sisalmacen.frminicio.resources
+C:\Users\letas\Downloads\Sistema de Almacén en Visual Studio 2010  y SqlServer 2008\Codigo Fuente\sisalmacen\sisalmacen\obj\x86\Debug\sisalmacen.frmequipo.resources
+C:\Users\letas\Downloads\Sistema de Almacén en Visual Studio 2010  y SqlServer 2008\Codigo Fuente\sisalmacen\sisalmacen\obj\x86\Debug\sisalmacen.frmcliente2.resources
+C:\Users\letas\Downloads\Sistema de Almacén en Visual Studio 2010  y SqlServer 2008\Codigo Fuente\sisalmacen\sisalmacen\obj\x86\Debug\sisalmacen.frmusuario.resources
+C:\Users\letas\Downloads\Sistema de Almacén en Visual Studio 2010  y SqlServer 2008\Codigo Fuente\sisalmacen\sisalmacen\obj\x86\Debug\sisalmacen.frmusuariologin.resources
+C:\Users\letas\Downloads\Sistema de Almacén en Visual Studio 2010  y SqlServer 2008\Codigo Fuente\sisalmacen\sisalmacen\obj\x86\Debug\sisalmacen.frmvistacliente.resources
+C:\Users\letas\Downloads\Sistema de Almacén en Visual Studio 2010  y SqlServer 2008\Codigo Fuente\sisalmacen\sisalmacen\obj\x86\Debug\sisalmacen.vbproj.GenerateResource.cache
+C:\Users\letas\Downloads\Sistema de Almacén en Visual Studio 2010  y SqlServer 2008\Codigo Fuente\sisalmacen\sisalmacen\obj\x86\Debug\sisalmacen.vbproj.CoreCompileInputs.cache
+C:\Users\letas\Downloads\Sistema de Almacén en Visual Studio 2010  y SqlServer 2008\Codigo Fuente\sisalmacen\sisalmacen\obj\x86\Debug\sisalmacen.exe
+C:\Users\letas\Downloads\Sistema de Almacén en Visual Studio 2010  y SqlServer 2008\Codigo Fuente\sisalmacen\sisalmacen\obj\x86\Debug\sisalmacen.xml
+C:\Users\letas\Downloads\Sistema de Almacén en Visual Studio 2010  y SqlServer 2008\Codigo Fuente\sisalmacen\sisalmacen\obj\x86\Debug\sisalmacen.pdb
